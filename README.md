@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/alien-preview.png" alt="Chat with Aliens" width="380" />
+  <img src="https://github.com/ChatWithAliens/Chat-With-Aliens/blob/main/alien-preview.png" alt="Chat with Aliens" width="380" />
 </p>
 
 <h1 align="center">Chat with Aliens</h1>
